@@ -24,6 +24,8 @@ If this feature breaks or is not available, what is the expected behavior in oth
 * What happens when I leave?
 * What are the adjacent pages?
 
+**Example:** *If a new uploader creates posts that are structured differently, will the pre-existing post page still work?*
+
 ##Dependencies
 
 What is necessary are needs to be done first before work can even be started on this feature?  
