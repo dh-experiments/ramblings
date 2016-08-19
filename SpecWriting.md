@@ -16,7 +16,7 @@ As an example, I could ask for infinite scroll on a feed rather than pagination.
 
 If it's a wizard, how do I progress through the wizard?  What visual indications on the view show how far I have moved?  What do I see when I finish?
 
-###Affected
+##Affected
 
 If this feature breaks or is not available, what is the expected behavior in other parts of the app?  Think about the pages/screens that are accessed prior to getting to this feature.  Think of both inbound and outbound links if it's a new view.
 
@@ -24,17 +24,17 @@ If this feature breaks or is not available, what is the expected behavior in oth
 * What happens when I leave?
 * What are the adjacent pages?
 
-###Dependencies
+##Dependencies
 
 What is necessary are needs to be done first before work can even be started on this feature?  Often an API is required before UI work can be done.
 
-###Time Dimension
+##Time Dimension
 
 When will this feature be released?  If so, does it need a progressive release due to the affected above?
 
 For example, if a new uploader creates posts that are structured differently, how will this retroactively affect older posts that still exist?  Is there a new logic that needs to differentiate the two?
 
-###Purpose & Stakeholders
+##Purpose & Stakeholders
 
 What is the purpose of this feature and who does it serve?  With this audience, it would help to present them with multiple mocks rather than jumping straight in with a single feature and no feedback prior to the work.
 
