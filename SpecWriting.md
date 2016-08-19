@@ -36,7 +36,9 @@ What is necessary are needs to be done first before work can even be started on 
 
 When will this feature be released?  If so, does it need a progressive release due to the affected above?
 
-**Example:** *If a new uploader creates posts that are structured differently, how will this retroactively affect older posts that still exist?  Is there a new logic that needs to differentiate the two?*
+**Example 1:** *If a new uploader creates posts that are structured differently, how will this retroactively affect older posts that still exist?  Is there a new logic that needs to differentiate the two?*
+
+**Example 2:** *Progressive Release - Do work packages need to be released in a certain order?  For example, frontend changes can't go out before the backend changes are completed.  If they do, are there gates or if/else blocks to prevent rendering of broken content?*
 
 ##Purpose & Stakeholders
 
