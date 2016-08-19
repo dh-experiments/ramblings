@@ -10,7 +10,7 @@ When writing tickets, I often focus on the following points just to be as descri
 
 ##UX / Visual Run Through
 
-Mockups are limited in that they only show a "snapshot" of the feature in time.  It does not show what *will happen* when a particular button is clicked, new data comes in, data is unavailable etc.  Often the terms used are a "concept" but don't repesent the implementation.
+Mockups are limited in that they only show a "snapshot" of the feature in time.  It does not show what **will happen** when a particular button is clicked, new data comes in, data is unavailable etc.  Often the terminology used (such as infinite scroll) are a "concept" but don't describe the specs (such as how many to load when scrolling).
 
 **Example 1:** *Infinite Scroll - I could ask for infinite scroll on a feed rather than pagination.  However mock does not specify how many posts are included in the beginning, how many come in per scroll, how many pixels away from the bottom of the screen triggers the next data fetch, as well as what happens if a user runs out of posts.  Changes in *state* need to be run through mentally.*
 
