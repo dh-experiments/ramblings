@@ -2,11 +2,11 @@
 
 When writing tickets, I often focus on the following points just to be as descriptive as possible.  STRONG SPECS ARE KING!
 
-*UX / Visual Run Through
-*Affected
-*Dependencies
-*Time Dimension
-*Purpose & Stakeholders
+* UX / Visual Run Through
+* Affected
+* Dependencies
+* Time Dimension
+* Purpose & Stakeholders
 
 ##UX / Visual Run Through
 
@@ -20,9 +20,9 @@ If it's a wizard, how do I progress through the wizard?  What visual indications
 
 If this feature breaks or is not available, what is the expected behavior in other parts of the app?  Think about the pages/screens that are accessed prior to getting to this feature.  Think of both inbound and outbound links if it's a new view.
 
-*How do I get there?
-*What happens when I leave?
-*What are the adjacent pages?
+* How do I get there?
+* What happens when I leave?
+* What are the adjacent pages?
 
 ###Dependencies
 
